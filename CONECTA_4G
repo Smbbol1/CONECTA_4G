@@ -1,5 +1,5 @@
 {
-  "Version": "17",
+  "Version": "18",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
@@ -10,8 +10,8 @@
   "UdpPort": "7300;7400;7500;7600;7700",
 "Servers": [
     {
-      "Name": "SERVIDOR MANDARINA17",
-      "TYPE": FREE",
+      "Name": "SERVIDOR MANDARINA18",
+      "TYPE": "FREE",
       "FLAG": "us.png",
       "ServerIP": "chile.gatesccnbo.tk",
       "CheckUser": "http://209.14.7.67:5454/checkUser",
@@ -23,7 +23,7 @@
     {
       "Name": "SERVIDOR WLQ",
       "TYPE": "VIP",
-      "FLAG": "br.png",
+      "FLAG": "cl.png",
       "ServerIP": "vps5w.ml",
       "CheckUser": "http://38.7.207.71:85/checkUser",
       "ServerPort": "22",
