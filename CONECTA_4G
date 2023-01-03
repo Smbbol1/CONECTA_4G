@@ -1,5 +1,5 @@
 {
-  "Version": "4",
+  "Version": "5",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300;7400;7500;7600;7700",
 "Servers": [
     {
-      "Name": "SERVIDOR MANDARIN4",
+      "Name": "SERVIDOR MANDARIN5",
       "TYPE": "premium",
       "FLAG": "us.png",
       "ServerIP": "chile.gatesccnbo.tk",
@@ -21,7 +21,7 @@
       "PASS": "123456"
     },
     {
-      "Name": "SERVIDOR WLQ4",
+      "Name": "SERVIDOR WLQ5",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps5w.ml",
