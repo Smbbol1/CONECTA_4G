@@ -1,5 +1,5 @@
 {
-  "Version": "7",
+  "Version": "8",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
@@ -10,7 +10,7 @@
   "UdpPort": "7300;7400;7500;7600;7700",
 "Servers": [
     {
-      "Name": "SERVIDOR MANDARIN7",
+      "Name": "SERVIDOR MANDARIN8",
       "TYPE": "premium",
       "FLAG": "us.png",
       "ServerIP": "chile.gatesccnbo.tk",
@@ -21,7 +21,7 @@
       "PASS": "123456"
     },
     {
-      "Name": "SERVIDOR WLQ7",
+      "Name": "SERVIDOR WLQ8",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps5w.ml",
