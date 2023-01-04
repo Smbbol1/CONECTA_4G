@@ -1,5 +1,5 @@
 {
-  "Version": "21",
+  "Version": "22",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
@@ -10,7 +10,7 @@
   "UdpPort": "7300;7400;7500;7600;7700",
 "Servers": [
     {
-      "Name": "SERVIDOR MANDARINA21",
+      "Name": "SERVIDOR MANDARINA22",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "chile.gatesccnbo.tk",
@@ -43,15 +43,26 @@
       "PASS": "w2222"
     },
             {
-      "Name": "Will",
+      "Name": "Intercol world",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "entel.interfreewilventas.tk",
+      "ServerIP": "grupo2.intervpn.tk",
       "CheckUser": "http://209.14.71.67:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "TIGOFULL",
-      "PASS": "TIGOFULL"
+      "USER": "bendinet",
+      "PASS": "bendinet"
+    },
+{
+      "Name": "Intercol world2",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "grupo1.intervpn.tk",
+      "CheckUser": "http://209.14.71.67:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "bendinet",
+      "PASS": "bendinet"
     },
  ],
  "Networks": [
