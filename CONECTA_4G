@@ -1,6 +1,6 @@
 {
-  "Version": "23",
-  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 3.83.48\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
+  "Version": "24",
+  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 24\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort": "7300;7400;7500;7600;7700",
 "Servers": [
     {
-      "Name": "SERVIDOR MANDARINA",
+      "Name": "SERVER MANDARIN",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "chile.gatesccnbo.tk",
@@ -21,7 +21,7 @@
       "PASS": "123456"
     },
     {
-      "Name": "SERVIDOR WLQ",
+      "Name": "SERVER WLQ",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps5w.ml",
@@ -32,14 +32,14 @@
       "PASS": "w2222"
     },
 {
-      "Name": "CNET 444",
+      "Name": "SERVER CRIS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "vps5w.ml",
+      "ServerIP": "cris.criis.tk",
       "CheckUser": "http://209.14.71.67:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "444",
-      "USER": "w2222",
+      "USER": "tigo",
       "PASS": "w2222"
     },
             {
@@ -50,8 +50,8 @@
       "CheckUser": "http://209.14.71.67:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "bendinet",
-      "PASS": "bendinet"
+      "USER": "tigo",
+      "PASS": "cris"
     },
 {
       "Name": "Intercol world2",
@@ -69,7 +69,7 @@
      {
       "Name": "ENTEL FREE 443",
       "FLAG": "vivo",
-      "Payload": "�������GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "micuenta.entel.bo",
       "TlsIP": "[app_host]",
       "ProxyIP": "",
