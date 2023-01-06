@@ -1,6 +1,6 @@
 {
-  "Version": "28",
-  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 28\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
+  "Version": "29",
+  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 29\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
@@ -128,24 +128,24 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "NETFLIX SSL 444",
+      "Name": "NETFLIX SSL 443",
       "FLAG": "vivo",
       "Payload": "",
       "SNI": "netflix.com",
       "TlsIP": "",
       "ProxyIP": "",
-      "ProxyPort": "444",
+      "ProxyPort": "",
       "Info": "Ssl"
     },
     {
-      "Name": "VIVO ONLINE 5",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d22u78un4n382s.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
+      "Name": "NETFLIX SSL 443",
+      "FLAG": "",
+      "Payload": "",
+      "SNI": "netflix.com",
       "TlsIP": "",
-      "ProxyIP": "108.139.119.50",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Ssl"
     },
     {
       "Name": "VIVO AGILE 1",
