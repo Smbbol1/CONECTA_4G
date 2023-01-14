@@ -1,6 +1,6 @@
 {
-  "Version": "33",
-  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 33\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
+  "Version": "34",
+  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 34\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
@@ -107,6 +107,17 @@
       "SSLPort": "443",
       "USER": "mundial",
       "PASS": "mundial"
+    },
+{
+      "Name": "GUAJIRO VPN",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "tigo.guajirocol-4k.tk",
+      "CheckUser": "http://38.7.207.71:85/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "guajiro20",
+      "PASS": "guajiro20"
     },
  ],
  "Networks": [
