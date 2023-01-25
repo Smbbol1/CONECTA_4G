@@ -1,6 +1,6 @@
 {
-  "Version": "34",
-  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 34\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
+  "Version": "35",
+  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 35\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
@@ -142,9 +142,9 @@
       "Info": "Direct"
     },
     {
-      "Name": "VIVA NETFLIX 90",
+      "Name": "VIVA INSTAGRAM 90",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: netflix.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: www.instagram.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "",
@@ -152,30 +152,30 @@
       "Info": "Direct"
     },
     {
-      "Name": "VIVA NETFLIX 443 npca",
+      "Name": "VIVA INSTAGRAM 443 npca",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
-      "TlsIP": "npca.netflix.com",
+      "TlsIP": "www.instagram.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
-      "Name": "VIVA NETFLIX 443 host ",
+      "Name": "VIVA INSTAGRAM 443 host ",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI": "netflix.com",
+      "SNI": "www.instagram.com",
       "TlsIP": "[app_host]",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
-      "Name": "NETFLIX SSL 443",
+      "Name": "INSTAGRAM SSL 443",
       "FLAG": "vivo",
       "Payload": "",
-      "SNI": "netflix.com",
+      "SNI": "www.instagram.com",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
