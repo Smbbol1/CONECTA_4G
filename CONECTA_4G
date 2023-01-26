@@ -1,6 +1,6 @@
 {
-  "Version": "35",
-  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 35\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
+  "Version": "36",
+  "ReleaseNotes": "Atençao!!!! Nova Atualização Disponível 23🦸🏻 \n\n MANTENHA O APLICATIVO \n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 36\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===================\n MELHOR VPN DO MERCADO… !!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/Smbbol1/CONECTA_4G/main/CONECTA_4G",
   "Sms": "Nuevos servidores",
   "EmailFeedback": "kiritosshxd5733@gmail.com",
@@ -25,7 +25,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "vps5w.ml",
-      "CheckUser": "http://38.7.207.71:85/checkUser",
+      "CheckUser": "http://45.173.129.35:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "w2222",
